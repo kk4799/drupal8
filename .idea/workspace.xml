@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c70b00d-75de-4eb5-8f19-12a547ac418f" name="Default" comment="" />
+    <list default="true" id="7c70b00d-75de-4eb5-8f19-12a547ac418f" name="Default" comment="adding logo.png" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,24 @@
             <path>
               <item name="drupal8" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal8" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="drupal8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal8" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="drupal8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal8" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="files" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="drupal8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal8" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -103,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521572435794</updated>
       <workItem from="1521572437116" duration="358000" />
-      <workItem from="1521573697299" duration="54000" />
+      <workItem from="1521573697299" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Bootstrap, neato, and Zurb foundation themes second attempt">
       <created>1521573733278</created>
@@ -116,7 +134,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="412000" />
+    <option name="totallyTimeSpent" value="1093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -162,6 +180,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
